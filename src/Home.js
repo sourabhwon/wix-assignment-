@@ -26,11 +26,7 @@ export default function Home() {
             I’m a great place for you to tell a story and <br /> let your users
             know a little more about you.
           </p>
-          {/* <Row className="justify-content-md-center" md={3}>
-            <Col style={{ backgroundColor:"red" }}>1 of 3</Col>
-            <Col style={{ backgroundColor:"green" }}>2 of 3</Col>
-            <Col style={{ backgroundColor:"black" }}>3 of 3</Col>
-          </Row> */}
+         
 
           <button type="button" class="btn rbtn button">
             Resume
